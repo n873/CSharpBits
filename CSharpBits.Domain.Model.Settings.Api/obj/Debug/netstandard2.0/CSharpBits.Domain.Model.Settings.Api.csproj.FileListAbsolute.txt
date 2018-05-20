@@ -1,0 +1,12 @@
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Settings.Api\bin\Debug\netstandard2.0\CSharpBits.Domain.Model.Settings.Api.deps.json
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Settings.Api\bin\Debug\netstandard2.0\CSharpBits.Domain.Model.Settings.Api.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Settings.Api\bin\Debug\netstandard2.0\CSharpBits.Domain.Model.Settings.Api.pdb
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Settings.Api\bin\Debug\netstandard2.0\CSharpBits.Domain.Model.Configuration.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Settings.Api\bin\Debug\netstandard2.0\CSharpBits.Domain.Model.Configuration.pdb
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Settings.Api\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.Settings.Api.csprojAssemblyReference.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Settings.Api\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.Settings.Api.csproj.CoreCompileInputs.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Settings.Api\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.Settings.Api.AssemblyInfoInputs.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Settings.Api\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.Settings.Api.AssemblyInfo.cs
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Settings.Api\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.Settings.Api.csproj.CopyComplete
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Settings.Api\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.Settings.Api.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Settings.Api\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.Settings.Api.pdb

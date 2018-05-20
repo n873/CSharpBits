@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CSharpBits.Domain.Model.Configuration\CSharpBits.Domain.Model.Configuration.csproj" />
+    <ProjectReference Include="..\CSharpBits.Helper.Api\CSharpBits.Helper.Api.csproj" />
+  </ItemGroup>
+
+</Project>

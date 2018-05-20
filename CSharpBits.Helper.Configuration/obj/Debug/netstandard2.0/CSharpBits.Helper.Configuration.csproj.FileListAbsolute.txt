@@ -1,0 +1,14 @@
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Configuration\bin\Debug\netstandard2.0\CSharpBits.Helper.Configuration.deps.json
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Configuration\bin\Debug\netstandard2.0\CSharpBits.Helper.Configuration.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Configuration\bin\Debug\netstandard2.0\CSharpBits.Helper.Configuration.pdb
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Configuration\bin\Debug\netstandard2.0\CSharpBits.Domain.Model.Configuration.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Configuration\bin\Debug\netstandard2.0\CSharpBits.Helper.Api.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Configuration\bin\Debug\netstandard2.0\CSharpBits.Domain.Model.Configuration.pdb
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Configuration\bin\Debug\netstandard2.0\CSharpBits.Helper.Api.pdb
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Configuration\obj\Debug\netstandard2.0\CSharpBits.Helper.Configuration.csprojAssemblyReference.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Configuration\obj\Debug\netstandard2.0\CSharpBits.Helper.Configuration.csproj.CoreCompileInputs.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Configuration\obj\Debug\netstandard2.0\CSharpBits.Helper.Configuration.AssemblyInfoInputs.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Configuration\obj\Debug\netstandard2.0\CSharpBits.Helper.Configuration.AssemblyInfo.cs
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Configuration\obj\Debug\netstandard2.0\CSharpBits.Helper.Configuration.csproj.CopyComplete
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Configuration\obj\Debug\netstandard2.0\CSharpBits.Helper.Configuration.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Configuration\obj\Debug\netstandard2.0\CSharpBits.Helper.Configuration.pdb

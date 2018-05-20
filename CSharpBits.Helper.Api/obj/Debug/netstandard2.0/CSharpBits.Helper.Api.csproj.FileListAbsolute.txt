@@ -1,0 +1,9 @@
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Api\bin\Debug\netstandard2.0\CSharpBits.Helper.Api.deps.json
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Api\bin\Debug\netstandard2.0\CSharpBits.Helper.Api.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Api\obj\Debug\netstandard2.0\CSharpBits.Helper.Api.csprojAssemblyReference.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Api\obj\Debug\netstandard2.0\CSharpBits.Helper.Api.csproj.CoreCompileInputs.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Api\obj\Debug\netstandard2.0\CSharpBits.Helper.Api.AssemblyInfoInputs.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Api\obj\Debug\netstandard2.0\CSharpBits.Helper.Api.AssemblyInfo.cs
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Api\bin\Debug\netstandard2.0\CSharpBits.Helper.Api.pdb
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Api\obj\Debug\netstandard2.0\CSharpBits.Helper.Api.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Helper.Api\obj\Debug\netstandard2.0\CSharpBits.Helper.Api.pdb

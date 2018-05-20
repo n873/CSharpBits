@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CSharpBits.Common.Utility.Settings.Api\CSharpBits.Common.Utility.Settings.Api.csproj" />
+    <ProjectReference Include="..\CSharpBits.Domian.Constant.Settings.Api\CSharpBits.Domian.Constant.Settings.Api.csproj" />
+  </ItemGroup>
+
+</Project>

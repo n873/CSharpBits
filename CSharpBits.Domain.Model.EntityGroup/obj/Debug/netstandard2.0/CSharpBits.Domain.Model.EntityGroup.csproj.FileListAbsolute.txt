@@ -1,0 +1,9 @@
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.EntityGroup\bin\Debug\netstandard2.0\CSharpBits.Domain.Model.EntityGroup.deps.json
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.EntityGroup\bin\Debug\netstandard2.0\CSharpBits.Domain.Model.EntityGroup.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.EntityGroup\bin\Debug\netstandard2.0\CSharpBits.Domain.Model.EntityGroup.pdb
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.EntityGroup\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.EntityGroup.csprojAssemblyReference.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.EntityGroup\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.EntityGroup.csproj.CoreCompileInputs.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.EntityGroup\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.EntityGroup.AssemblyInfoInputs.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.EntityGroup\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.EntityGroup.AssemblyInfo.cs
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.EntityGroup\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.EntityGroup.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.EntityGroup\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.EntityGroup.pdb

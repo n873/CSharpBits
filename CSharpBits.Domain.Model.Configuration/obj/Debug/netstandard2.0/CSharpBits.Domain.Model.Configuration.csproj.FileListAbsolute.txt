@@ -1,0 +1,9 @@
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Configuration\bin\Debug\netstandard2.0\CSharpBits.Domain.Model.Configuration.deps.json
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Configuration\bin\Debug\netstandard2.0\CSharpBits.Domain.Model.Configuration.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Configuration\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.Configuration.csprojAssemblyReference.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Configuration\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.Configuration.csproj.CoreCompileInputs.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Configuration\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.Configuration.AssemblyInfoInputs.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Configuration\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.Configuration.AssemblyInfo.cs
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Configuration\bin\Debug\netstandard2.0\CSharpBits.Domain.Model.Configuration.pdb
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Configuration\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.Configuration.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domain.Model.Configuration\obj\Debug\netstandard2.0\CSharpBits.Domain.Model.Configuration.pdb

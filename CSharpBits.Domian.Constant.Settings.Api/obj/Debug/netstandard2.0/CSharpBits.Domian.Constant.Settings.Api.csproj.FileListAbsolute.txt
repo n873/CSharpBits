@@ -1,0 +1,9 @@
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domian.Constant.Settings.Api\bin\Debug\netstandard2.0\CSharpBits.Domian.Constant.Settings.Api.deps.json
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domian.Constant.Settings.Api\bin\Debug\netstandard2.0\CSharpBits.Domian.Constant.Settings.Api.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domian.Constant.Settings.Api\bin\Debug\netstandard2.0\CSharpBits.Domian.Constant.Settings.Api.pdb
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domian.Constant.Settings.Api\obj\Debug\netstandard2.0\CSharpBits.Domian.Constant.Settings.Api.csprojAssemblyReference.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domian.Constant.Settings.Api\obj\Debug\netstandard2.0\CSharpBits.Domian.Constant.Settings.Api.csproj.CoreCompileInputs.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domian.Constant.Settings.Api\obj\Debug\netstandard2.0\CSharpBits.Domian.Constant.Settings.Api.AssemblyInfoInputs.cache
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domian.Constant.Settings.Api\obj\Debug\netstandard2.0\CSharpBits.Domian.Constant.Settings.Api.AssemblyInfo.cs
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domian.Constant.Settings.Api\obj\Debug\netstandard2.0\CSharpBits.Domian.Constant.Settings.Api.dll
+d:\Users\Nathan\Documents\Visual Studio 2017\Projects\CSharpBits\CSharpBits.Domian.Constant.Settings.Api\obj\Debug\netstandard2.0\CSharpBits.Domian.Constant.Settings.Api.pdb
